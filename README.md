@@ -5,11 +5,11 @@
 
 ## 👋 Intro
 
-<h1>🔷 /mobile </h1>
+<p>🔷 /mobile </p>
 
 React Native Mobile Demo
 
-<h1>🔷 /backend </h1>
+<p>🔷 /backend </p>
 
 AWS Lambda Function
 
